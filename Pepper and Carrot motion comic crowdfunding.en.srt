@@ -1,0 +1,39 @@
+﻿1
+00:00:21,949 --> 00:00:25,682
+Hello! My name is Nikolai Mamashev.
+
+2
+00:00:25,682 --> 00:00:30,003
+I would like to create Pepper and Carrot motion comic.
+( www.peppercarrot.com )
+
+3
+00:00:31,334 --> 00:00:40,145
+Originally, Pepper and Carrot is an Open Source web-comic created by David Revoy.
+
+4
+00:00:40,291 --> 00:00:45,186
+My intention is to create its' animated version.
+
+5
+00:00:46,521 --> 00:00:58,065
+For this I will be using Blender3d (www.blender.org/) and Krita (www.krita.org) Open Source Software.
+
+6
+00:01:00,349 --> 00:01:09,439
+To make this possible, I have started a crowd funding campaign.
+
+7
+00:01:09,964 --> 00:01:19,173
+With the success of this campaign, I will be able to create episode of this motion comic.
+
+8
+00:01:19,173 --> 00:01:25,782
+Well, if you're still watching this, then I guess you already know what to do!
+
+9
+00:01:25,782 --> 00:01:33,144
+Support this campaign
+--> igg.me/at/pepper-and-carrot-motion <--
+Thank you!
+

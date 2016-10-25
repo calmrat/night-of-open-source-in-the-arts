@@ -1,0 +1,261 @@
+﻿1
+00:00:00,000 --> 00:00:02,000
+Varování FBI ... NEPOŘIZUJTE KOPIE TÉTO KAZETY!
+
+2
+00:00:02,173 --> 00:00:04,073
+Kopírování není krádež!
+
+3
+00:00:05,441 --> 00:00:07,964
+Kopírování není krádež!
+
+4
+00:00:08,417 --> 00:00:11,409
+Kradením něco ubyde.
+
+5
+00:00:11,433 --> 00:00:14,074
+Kopírováním zase přibude.
+
+6
+00:00:14,174 --> 00:00:16,074
+K tomu kopírování je.
+
+7
+00:00:16,336 --> 00:00:19,566
+Kopírování není krádež!
+
+8
+00:00:19,644 --> 00:00:21,347
+Když okopíruji tvoje budeme mít dvě...
+
+9
+00:00:21,348 --> 00:00:24,423
+O autorských právech jsem si dřív myslela, že mě chrání.
+
+10
+00:00:24,556 --> 00:00:29,470
+Jedna z hlavních otázek mojí dizertační práce je ...
+
+11
+00:00:29,470 --> 00:00:35,168
+... pohled na vztah mezi etikou a hnutím svbodného a open source softwaru (FLOSS).
+
+12
+00:00:35,205 --> 00:00:39,692
+A samozřejmě je z hlediska etiky velmi důležitá svoboda informací.
+
+13
+00:00:39,692 --> 00:00:48,187
+Udělali vlastně to, že vytvořili sociální a právní termíny prokultivaci technologické produkce.
+
+14
+00:00:48,187 --> 00:00:50,492
+Svoboda se sama neochrání.
+
+15
+00:00:50,629 --> 00:00:55,203
+Lidem je možné svobodu dát, ale pokud si jí neváží, tak o ni přijdou.
+
+16
+00:00:55,203 --> 00:01:04,725
+Patentní a autorská práva jsou v podstatě vzniklá na podmínkách ze 17. a 18. století,
+
+17
+00:01:04,725 --> 00:01:12,162
+implemetovaná způsoby 19. století a potom znovu nasazená ve 20. století,
+
+18
+00:01:12,162 --> 00:01:14,293
+aby řešily problémy 21. století.
+
+19
+00:01:14,293 --> 00:01:18,788
+Open source umožňuje jednotlivcům mít větší kontrolu.
+
+20
+00:01:18,788 --> 00:01:22,291
+Já osobně nechci aby moje srdce záviselo na uzavřeném kódu, ...
+
+21
+00:01:22,291 --> 00:01:23,074
+... který nikdo neprohlížel.
+
+22
+00:01:23,074 --> 00:01:27,442
+Svým způsobem mi láme srdce, že software a zbytek kultury jsou tak ...
+
+23
+00:01:27,442 --> 00:01:32,548
+oddělené jeden od druhého protože se až tak moc neliší ... jsou kultura.
+
+24
+00:01:32,548 --> 00:01:36,847
+Stejné principy platí u softwaru a zbytku kulturního světa.
+
+25
+00:01:36,847 --> 00:01:42,176
+Filmy se rozpadají, v obalech, na negativech.
+
+26
+00:01:42,176 --> 00:01:45,373
+Není možné je uchovávat, protože nikdo za to nemůže zaplatit, ...
+
+27
+00:01:45,373 --> 00:01:47,899
+... protože by porušoval autorská práva, kdyby je někdy někomu ukázal.
+
+28
+00:01:47,899 --> 00:01:50,256
+Tohle jednoduše zabíjí umění.
+
+29
+00:01:50,256 --> 00:01:52,020
+Spousta kultury se ztratila.
+
+30
+00:01:52,020 --> 00:01:53,138
+Je to srdcervoucí.
+
+31
+00:01:53,138 --> 00:01:55,807
+Součástí problému je, aby lidé pochopili, ...
+
+32
+00:01:55,807 --> 00:01:58,554
+... že toto není hnutí proti autorským právům.
+
+33
+00:01:58,554 --> 00:02:01,002
+Ve skutečnosti jde o hnutí, které autorská práva podporuje.
+
+34
+00:02:01,002 --> 00:02:05,907
+Jedná se ohnutí, které je celé o tom, aby měla autorská práva smysl v digitálním věku.
+
+35
+00:02:06,202 --> 00:02:07,978
+Počkat! Jak dostanou tvůrci zaplaceno?!
+
+36
+00:02:07,978 --> 00:02:09,418
+Všechny ty společnosti, které nás chtěly zrušit, ...
+
+37
+00:02:09,418 --> 00:02:13,063
+... to chtěly hlavně proto, že jsme jim tak nějak zničili jejich obchodní model.
+
+38
+00:02:13,063 --> 00:02:18,210
+Vzali jsme knihu "American Gods", která se stále prodávala a prodávala se velice dobře.
+
+39
+00:02:18,210 --> 00:02:25,573
+A na měsíc jsme ji dali kompletně zadarmo na webové stránky a bylo možné si ji přečíst i stáhnout.
+
+40
+00:02:26,938 --> 00:02:35,161
+Stalo se to, že prodeje mých knih v nezávislých knihkupectvích ....
+
+41
+00:02:35,161 --> 00:02:36,933
+... protože to byl jediný způsob, kterým jsme to měřili, ...
+
+42
+00:02:36,933 --> 00:02:40,724
+se zvedly o 300%!
+
+43
+00:02:40,724 --> 00:02:44,833
+Na koncertě za mnou přišel chlápek a podal mi 10 dolarů.
+
+44
+00:02:44,833 --> 00:02:53,668
+Omlouvám se, vyplálil jsem si tvoje CD od kamaráda.
+
+45
+00:02:53,668 --> 00:02:57,421
+Ale čtu tvůj blog a vím, že nesnášíš svou nahrávací společnost.
+
+46
+00:02:57,421 --> 00:02:58,857
+Prostě chci, abys tyhle peníze dostala.
+
+47
+00:02:58,896 --> 00:03:03,836
+A tohle se poslední dobou stává často.
+
+48
+00:03:03,836 --> 00:03:08,659
+Takže existuje hodně nových postojů co se týče obchodních modelů na internetu.
+
+49
+00:03:08,659 --> 00:03:11,948
+A ten model je takový, že všechen obsah je volně dostupný.
+
+50
+00:03:11,948 --> 00:03:16,713
+Jedničky a nuly jsou zdarma a tady je řeka jedniček a nul.
+
+51
+00:03:16,713 --> 00:03:18,719
+Úložiště ale zdarma nejsou.
+
+52
+00:03:18,719 --> 00:03:21,141
+Tady je pár příkladů úložišť:
+
+53
+00:03:21,141 --> 00:03:25,120
+Máte počítaš, CD, knihu; tohle jsou fyzické věci.
+
+54
+00:03:25,120 --> 00:03:28,106
+Tyto věci se dají považovat za mrtvé.
+
+55
+00:03:28,106 --> 00:03:33,118
+Obsah v nich je živý, ale úložiště ne.
+
+56
+00:03:33,118 --> 00:03:34,560
+Je to majetek, a to je v pořádku.
+
+57
+00:03:34,560 --> 00:03:38,152
+Nejsou zadarmo. Takhle dnes umělci vydělávají peníze.
+
+58
+00:03:38,152 --> 00:03:44,535
+Ne z obsahu, ale z toho, že mají dobré vztahy se svými fanoušky.
+
+59
+00:03:44,535 --> 00:03:47,752
+Sdílení tvorby s fanoušky je prospěšné pro všechny.
+
+60
+00:03:47,752 --> 00:03:50,250
+Fanoušci distribuují tvou tvorbu a podporují tě.
+
+61
+00:03:50,250 --> 00:03:54,102
+Je to úžasné.
+
+62
+00:06:34,163 --> 00:06:36,746
+A teprve začínáme...
+
+63
+00:06:53,080 --> 00:06:54,634
+Důvody řádného užití
+("Fair Use")
+
+64
+00:06:52,878 --> 00:06:55,038
+Protože některé z citovaných rozhovorů nebyly samy o sobě svodobně licencované, máme pocit, že ...
+
+65
+00:06:55,038 --> 00:06:57,500
+je nezbytné poznamenat, že se jedná o krátké citáty pro recenzní a komentátorské potřeby a spadají tak do právní definice "dovoleného užití" ("fair use").
+

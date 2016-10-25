@@ -1,0 +1,260 @@
+﻿1
+00:00:00,000 --> 00:00:02,000
+FBI Warning ... DO NOT COPY THIS TAPE!
+
+2
+00:00:02,173 --> 00:00:04,073
+Copying is not theft!
+
+3
+00:00:05,441 --> 00:00:07,964
+Copying is not theft!
+
+4
+00:00:08,417 --> 00:00:11,409
+Stealing a thing, leaves one less left.
+
+5
+00:00:11,433 --> 00:00:14,074
+Copying it makes one thing more.
+
+6
+00:00:14,074 --> 00:00:14,074
+That's what copying is for.
+
+7
+00:00:16,336 --> 00:00:19,566
+Copying is not theft!
+
+8
+00:00:19,644 --> 00:00:21,347
+If I copies yours there's one thing more...
+
+9
+00:00:21,348 --> 00:00:24,423
+My ideas about copyright were that I believed it protected me.
+
+10
+00:00:24,556 --> 00:00:29,470
+One of the main questions of my dissertation is ...
+
+11
+00:00:29,470 --> 00:00:35,168
+... looking at the relationship between ethics and the free and open source software (FLOSS) movement.
+
+12
+00:00:35,205 --> 00:00:39,692
+And obviously there is a very strong ethic for information freedom.
+
+13
+00:00:39,692 --> 00:00:48,187
+What they have done is they have created the social and legal terms to cultivate technological production
+
+14
+00:00:48,187 --> 00:00:50,492
+Freedom doesn't protect itself.
+
+15
+00:00:50,629 --> 00:00:55,203
+You can give people freedom, but if they don't value it they'll lose it.
+
+16
+00:00:55,203 --> 00:01:04,725
+The patent laws and the copyright laws are basically about 17th and 18th century conditions
+
+17
+00:01:04,725 --> 00:01:12,162
+implemented in 19th century way and then redeployed in the 20th century...
+
+18
+00:01:12,162 --> 00:01:14,293
+... to meet 21st century problems.
+
+19
+00:01:14,293 --> 00:01:18,788
+Open Source will allow individuals to have greater control.
+
+20
+00:01:18,788 --> 00:01:22,291
+Personally, for me, I don't want my heart to be relying on closed source code ...
+
+21
+00:01:22,291 --> 00:01:23,074
+... that hasn't been reviewed.
+
+22
+00:01:23,074 --> 00:01:27,442
+It kinda breaks my heart that software and the rest of culture are so ...
+
+23
+00:01:27,442 --> 00:01:32,548
+... separate from each other because they're really not that different they're just culture.
+
+24
+00:01:32,548 --> 00:01:36,847
+The same principals apply to software and the rest of the cultural world.
+
+25
+00:01:36,847 --> 00:01:42,176
+You know films are disintegrating in cans, film negatives.
+
+26
+00:01:42,176 --> 00:01:45,373
+They can't be preserved because no one can spend the money preserving them ...
+
+27
+00:01:45,373 --> 00:01:47,899
+because it would violate copyright if they ever showed it.
+
+28
+00:01:47,899 --> 00:01:50,256
+This is just killing art.
+
+29
+00:01:50,256 --> 00:01:52,020
+There is so much culture that has been lost.
+
+30
+00:01:52,020 --> 00:01:53,138
+It's just heart breaking.
+
+31
+00:01:53,138 --> 00:01:55,807
+Part of the problem has been people to understand ...
+
+32
+00:01:55,807 --> 00:01:58,554
+... that this is not an anti-copyright movement.
+
+33
+00:01:58,554 --> 00:02:01,002
+This is in fact, a pro-copyright movement.
+
+34
+00:02:01,002 --> 00:02:05,907
+It is a movement that is about making copyright make sense in the digital age.
+
+35
+00:02:06,202 --> 00:02:07,978
+But wait! How are creators going to get paid?!
+
+36
+00:02:07,978 --> 00:02:09,418
+All of these companies that wanted us to shut down ...
+
+37
+00:02:09,418 --> 00:02:13,063
+... only wanted it because we kinda ruined their business model.
+
+38
+00:02:13,063 --> 00:02:18,210
+We took "American Gods", a book that was still selling and selling very well.
+
+39
+00:02:18,210 --> 00:02:25,573
+And for a month they put it up completely free on their website and you could read it and download it.
+
+40
+00:02:26,938 --> 00:02:35,161
+What happened was that sales of my books through independent book stores ...
+
+41
+00:02:35,161 --> 00:02:36,933
+... because that is what we were measuring it through ...
+
+42
+00:02:36,933 --> 00:02:40,724
+... went up the following month 300%!
+
+43
+00:02:40,724 --> 00:02:44,833
+... at a gig and a guy comes up to me and hands me a $10 bill.
+
+44
+00:02:44,833 --> 00:02:53,668
+I'm sorry, I burned your CD from a friend.
+
+45
+00:02:53,668 --> 00:02:57,421
+But I read your blog and I know you hate your label.
+
+46
+00:02:57,421 --> 00:02:58,857
+I just want you to have this money.
+
+47
+00:02:58,896 --> 00:03:03,836
+And this starts happening all the time.
+
+48
+00:03:03,836 --> 00:03:08,659
+So, there is a lot of new thinking when it comes to business models on the internet.
+
+49
+00:03:08,659 --> 00:03:11,948
+... and the model is that content is free.
+
+50
+00:03:11,948 --> 00:03:16,713
+Zero's and one's are free and here's a river of zero's and one's...
+
+51
+00:03:16,713 --> 00:03:18,719
+Containers however are not free.
+
+52
+00:03:18,719 --> 00:03:21,141
+Here are some explains of containers:
+
+53
+00:03:21,141 --> 00:03:25,120
+You have a computer, disk, a book; these are physical things.
+
+54
+00:03:25,120 --> 00:03:28,106
+These are things you might consider dead.
+
+55
+00:03:28,106 --> 00:03:33,118
+The content in them is alive, but the container is not alive.
+
+56
+00:03:33,118 --> 00:03:34,560
+It is property and that's fine.
+
+57
+00:03:34,560 --> 00:03:38,152
+They are not free. That's how artists make money now.
+
+58
+00:03:38,152 --> 00:03:44,535
+Not from porting the content, but from actually having good relations with the fans.
+
+59
+00:03:44,535 --> 00:03:47,752
+Sharing your work with fans is beneficial for everybody.
+
+60
+00:03:47,752 --> 00:03:50,250
+Fans distribute the work and they support you.
+
+61
+00:03:50,250 --> 00:03:54,102
+It's awesome.
+
+62
+00:06:34,163 --> 00:06:36,746
+We're only just getting started...
+
+63
+00:06:53,080 --> 00:06:54,634
+Fair Use Rationale:
+
+64
+00:06:52,878 --> 00:06:55,038
+Because some of the quoted interviews are not free-licensed themselves, we feel it is ...
+
+65
+00:06:55,038 --> 00:06:57,500
+... necessary to note that these are small quotes take for review and commentary purposes and fall well within the legal definition of "fair use".
+

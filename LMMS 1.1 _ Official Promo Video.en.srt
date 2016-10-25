@@ -1,0 +1,40 @@
+﻿1
+00:00:00,701 --> 00:00:05,196
+LMMS - Open Source digital audio workstation
+
+2
+00:00:05,196 --> 00:00:07,706
+Compose and arrange
+
+3
+00:00:10,627 --> 00:00:12,548
+Design your own sound
+
+4
+00:00:23,002 --> 00:00:25,195
+19 built in instruments
+
+5
+00:00:32,096 --> 00:00:40,257
+FX mixer with unlimited channels and arbitrary amount of effects
+
+6
+00:00:40,257 --> 00:00:45,594
+and advanced routing capabilities
+
+7
+00:00:46,501 --> 00:00:48,922
+Over 1000 built in samples
+
+8
+00:00:52,837 --> 00:00:56,452
+MIDI controller support
+
+9
+00:01:01,624 --> 00:01:06,955
+Many built-in LADSPA effects
+
+10
+00:01:10,871 --> 00:01:16,509
+VST support on Windows and Linux
+

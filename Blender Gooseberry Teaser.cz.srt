@@ -1,0 +1,48 @@
+﻿1
+00:00:01,091 --> 00:00:05,822
+The Blender Foundation uvádí
+
+2
+00:00:08,040 --> 00:00:13,076
+Ahoj, jmenuji se Michelle ...
+
+3
+00:00:13,588 --> 00:00:16,098
+... a jsem ...
+
+4
+00:00:21,361 --> 00:00:24,464
+Všechno je zmatené.
+
+5
+00:00:24,564 --> 00:00:29,064
+Byla jsem... no, mohla bych být...
+
+6
+00:00:29,164 --> 00:00:30,664
+Jsem ovce!
+
+7
+00:00:31,111 --> 00:00:35,164
+...a teď, chci jít domů.
+
+8
+00:00:36,677 --> 00:00:41,007
+The GOOSEBERRY Project
+
+9
+00:00:41,107 --> 00:00:45,882
+Spojuje ty nejlepší umělce z celého světa ...
+
+10
+00:00:53,071 --> 00:00:55,721
+... s nejlepšími vývojáři z Open source komunity ...
+
+11
+00:00:55,921 --> 00:01:00,021
+... a vytvoří ti tvůj vlastní film.
+
+12
+00:01:00,521 --> 00:01:03,021
+Zapoj se: http://gooseberry.blender.org
+

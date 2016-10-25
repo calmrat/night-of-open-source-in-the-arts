@@ -1,0 +1,169 @@
+﻿1
+00:00:00,000 --> 00:00:03,292
+Will Weekly - Talk + Draw
+
+2
+00:00:03,228 --> 00:00:09,700
+What's going on YouTube!? This is Will. Welcome to Will Weekly! This is Talk + Draw Episode 7.
+
+3
+00:00:09,700 --> 00:00:17,544
+Today I'll be doing a comic I came across about 5 months ago on random websites.
+
+4
+00:00:17,544 --> 00:00:20,598
+The author's name is David Revoy and the comic is called Pepper and Carrot.
+
+5
+00:00:20,598 --> 00:00:28,658
+It's a very well drawn, well written comic. I mean the stories... I think they're on Episode 10 and Episode 11 should be coming out shortly ...
+
+6
+00:00:28,658 --> 00:00:35,181
+They're very short comic books. Maybe about 8 or 10 panels. But they're very cute, very whimsical and very funny.
+
+7
+00:00:35,181 --> 00:00:41,302
+The two characters are very original. The artist takes you away to a whole other world with his drawings.
+
+8
+00:00:41,302 --> 00:00:48,441
+The style of his fantasy drawing is ... to me ... is remeniscent of the old school RPGs I used to play on Playstation ...
+
+9
+00:00:48,441 --> 00:00:53,534
+... like Suikoden or Chrono Cross or Final Fantasy 9 especially.
+
+10
+00:00:53,534 --> 00:00:58,593
+Actually the main character Pepper, she reminds me of a female version of Vivi.
+
+11
+00:00:58,593 --> 00:01:08,312
+Just a which or a mage ... but she has her own quirky little personality and after you read a few comics you'll grow to love her love the artistry of it as well.
+
+12
+00:01:08,312 --> 00:01:18,448
+One of the big things is the guy, he's at --> davidrevoy.com <--
+
+13
+00:01:18,448 --> 00:01:23,588
+and he's a very humble dude. He gives basic tutorials on how he does his craft ...
+
+14
+00:01:23,588 --> 00:01:30,925
+gives advice on the industry ... he writes out step by step how he made all his comics ...
+
+15
+00:01:30,925 --> 00:01:38,897
+... and it's actually really cool to read because he's utilizing Open Source and "permissive", 100% free and forever.
+
+16
+00:01:38,897 --> 00:01:44,056
+He puts his stuff online for free, absolutely. And he uses Open Source Software ...
+
+17
+00:01:44,056 --> 00:01:47,242
+... and I think the main software that he uses is called Krita (krita.org) ...
+
+18
+00:01:47,242 --> 00:01:55,202
+... and it's not as popular as Photoshop's, etc but I've actually played with Krita and I love the concept of it!
+
+19
+00:01:55,202 --> 00:02:00,322
+It's a very simplistic interface and is very good for artists as far as doing flats and line arts.
+
+20
+00:02:00,322 --> 00:02:06,408
+And as you'll see on this video the way I do my line art can be kinda cumbersome depending on the type of art I'm doing.
+
+21
+00:02:06,408 --> 00:02:13,552
+The demo that I saw that he actually gave a tutorial for Krita was absolutely wonderful ...
+
+22
+00:02:13,552 --> 00:02:15,421
+... to the point where I reached out to the company and said when are you guys gonna have the Mac version ...
+
+23
+00:02:15,421 --> 00:02:21,862
+... because the one particular thing that I wanted to use has a bug with it on the Mac version of the software.
+
+24
+00:02:21,862 --> 00:02:31,607
+So they're still gonna work in that as they get a little more popular and I can't wait to have it because it will speed up my flatting process probably 3x at the least.
+
+25
+00:02:31,607 --> 00:02:40,705
+But yea, like I was saying, his name is David Revoy. These are his two characters. They are by no means any of my characters that I own.
+
+26
+00:02:40,705 --> 00:02:49,514
+This is me as a fan. I am going to tweet this to him and post it on his facebook to make sure he understands that I did it because he does accept fan art.
+
+27
+00:02:49,514 --> 00:02:57,300
+And this is just me paying homage to the characters and the creativity and the ability to take two unknown characters ...
+
+28
+00:02:57,300 --> 00:03:05,578
+... and after a few episodes of reading, you're entirely thrust into their world and you understand different individuals that encompass this world ...
+
+29
+00:03:05,578 --> 00:03:09,716
+... as well as get to know the characters on that much more of a deep level.
+
+30
+00:03:09,716 --> 00:03:15,135
+I think that's a very impressive thing for an artist to be able to pull off in such a short period of time.
+
+31
+00:03:15,135 --> 00:03:18,971
+So I commend him 100% and I am 100% a fan of him.
+
+32
+00:03:18,971 --> 00:03:27,285
+This is the type of thing I hope to do with my personal IPs is to just create a character that takes you away that takes you away to an entirely world ...
+
+33
+00:03:27,285 --> 00:03:31,175
+... transport you and make you fall in love with them and make you want to see what their next adventures are.
+
+34
+00:03:31,175 --> 00:03:38,883
+See what they're up to and hopefully we can all be on the same page as artists and fans of art ... where we can have ...
+
+35
+00:03:38,883 --> 00:03:44,254
+... because the Internet is very key to this lifestyle because it's a very Open Source world now ...
+
+36
+00:03:44,254 --> 00:03:48,572
+... where you don't have to go the comic shop every week to get the newest comic. This is all on line.
+
+37
+00:03:48,572 --> 00:03:55,590
+So if we can have the same thought process that David Revoy has as far as having everything Open Source ...
+
+38
+00:03:55,590 --> 00:03:59,424
+... and using the "honor system" with pay ... because yes, artists, you do need to get paid ...
+
+39
+00:03:59,424 --> 00:04:04,779
+... but he's managed to capivate a nice fan base and they take care of him ...
+
+40
+00:04:04,779 --> 00:04:10,544
+... and I think it's a wonder thing and I'm definitely one of his fans and will be for the forseeable future.
+
+41
+00:04:10,544 --> 00:04:14,670
+So I just wanted to let you guys know. Thanks for watching! Hope you enjoyed the video.
+
+42
+00:04:14,670 --> 00:04:16,170
+Please subscribe if you did. Talk to you guys later!
+--> https://www.youtube.com/channel/UCmCfcZ9eH-NooKg9mSSURjg <--
+

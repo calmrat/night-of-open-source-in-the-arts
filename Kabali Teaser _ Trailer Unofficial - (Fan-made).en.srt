@@ -1,0 +1,8 @@
+﻿1
+00:00:00,000 --> 00:00:03,494
+DISCLAIMER: This is purely a demonstration of the capabilities of Open Source Software and pipeline based on the same and this creation has no commercial value what so ever.
+
+2
+00:00:03,594 --> 00:00:06,894
+... Any resemblance to other creations of any artist is coincedential. Actors, characters, places and events depicted are fictitious and imaginary.
+

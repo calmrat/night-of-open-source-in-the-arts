@@ -1,0 +1,140 @@
+﻿1
+00:00:02,020 --> 00:00:04,710
+Software is all around us ...
+
+2
+00:00:04,710 --> 00:00:07,727
+... and sometimes inside us.
+
+3
+00:00:08,887 --> 00:00:11,646
+But what happens when the tools we use ...
+
+4
+00:00:11,646 --> 00:00:13,433
+... are obeying someone else?
+
+5
+00:00:13,433 --> 00:00:17,364
+A tool you can control serves your interests!
+
+6
+00:00:17,364 --> 00:00:19,527
+But if someone else controls it ...
+
+7
+00:00:19,527 --> 00:00:22,803
+... they serve their own ...
+
+8
+00:00:22,107 --> 00:00:25,574
+When you can examine tools to see how they work ...
+
+9
+00:00:25,574 --> 00:00:27,620
+... you are able to learn about them ...
+
+10
+00:00:27,620 --> 00:00:30,819
+... even modify them to work differently or better.
+
+11
+00:00:30,819 --> 00:00:35,092
+When you can share a tool and its changes ...
+
+12
+00:00:35,092 --> 00:00:38,047
+... you help others and in turn they help you.
+
+13
+00:00:38,047 --> 00:00:43,293
+In fact, this is how early computing developed.
+
+14
+00:00:43,293 --> 00:00:45,609
+Everyone could see a program's code.
+
+15
+00:00:45,609 --> 00:00:48,585
+And people shared their work freely to drive its' growth.
+
+16
+00:00:51,117 --> 00:00:54,441
+Every user was a potential author.
+
+17
+00:00:56,294 --> 00:00:59,667
+But when companies began to lock source code away ...
+
+18
+00:00:59,667 --> 00:01:03,057
+... it stopped being possible to participate.
+
+19
+00:01:03,057 --> 00:01:07,075
+Or even to know what the code was doing.
+
+20
+00:01:08,304 --> 00:01:12,090
+In reponse, hackers formed the GNU project ...
+
+21
+00:01:12,090 --> 00:01:16,891
+... to create a computer system designed to respect the autonomy of users.
+
+22
+00:01:16,891 --> 00:01:20,213
+The adopted a copyleft maneuver ...
+
+23
+00:01:20,203 --> 00:01:23,306
+... and built it into the GNU General public License (GPL) ...
+
+24
+00:01:23,306 --> 00:01:26,602
+... a legal structure that preserves user rights.
+
+25
+00:01:26,602 --> 00:01:32,214
+In ten short years, the Free Software movement had produced the GNU Linux system.
+
+26
+00:01:32,214 --> 00:01:36,196
+Computing that nobody could own, but anyone could use.
+
+27
+00:01:37,797 --> 00:01:40,546
+Today it's keeping planes in the air ...
+
+28
+00:01:40,546 --> 00:01:44,305
+Stocks trading ...
+
+29
+00:01:44,402 --> 00:01:48,734
+... and the global internet running.
+
+30
+00:01:50,187 --> 00:01:53,497
+We all encounter free software in invisible ways.
+
+31
+00:01:53,497 --> 00:01:57,049
+But software freedom was designed for people.
+
+32
+00:01:57,049 --> 00:02:00,589
+It's about what shape the technology we create will take.
+
+33
+00:02:00,589 --> 00:02:04,494
+And what kind of society we use our digital powers to build.
+
+34
+00:02:14,169 --> 00:02:17,137
+We still have work to do.
+
+35
+00:02:28,230 --> 00:02:33,724
+Free Software Foundation (FSF) - 30 years of propelling user freedom.
+
