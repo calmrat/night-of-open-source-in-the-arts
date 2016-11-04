@@ -1,0 +1,40 @@
+﻿1
+00:00:00,701 --> 00:00:05,196
+LMMS - Open Source digital audio workstation
+
+2
+00:00:05,196 --> 00:00:07,706
+Skládej a upravuj
+
+3
+00:00:10,627 --> 00:00:12,548
+Navrni svůj vlastní zvuk
+
+4
+00:00:23,002 --> 00:00:25,195
+19 vestavěných nástrojů
+
+5
+00:00:32,096 --> 00:00:40,257
+FX mixer s neomezenými kanály a libovolným množstvím efektů
+
+6
+00:00:40,257 --> 00:00:45,594
+a pokročilé možnosti směrování
+
+7
+00:00:46,501 --> 00:00:48,922
+Více než 1000 vestavěných vzorků
+
+8
+00:00:52,837 --> 00:00:56,452
+Podpora MIDI kontroleru
+
+9
+00:01:01,624 --> 00:01:06,955
+Mnoho zabudovaných LADSPA efektů
+
+10
+00:01:10,871 --> 00:01:16,509
+Podpora VST na Windows a Linuxu
+

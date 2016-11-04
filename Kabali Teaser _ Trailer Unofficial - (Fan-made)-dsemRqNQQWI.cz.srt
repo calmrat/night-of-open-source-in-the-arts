@@ -1,0 +1,8 @@
+﻿1
+00:00:00,000 --> 00:00:03,494
+PROHLÁŠENÍ: Toto video je určeno čistě pro demonstraci možností open source softwaru a nemá žádnou komerční hodnotu.
+
+2
+00:00:03,594 --> 00:00:06,894
+Jakákoli podobnost s tvorbou jiných umělců je náhodná. Herci, postavy, místa a události jsou zcela fiktivní.
+

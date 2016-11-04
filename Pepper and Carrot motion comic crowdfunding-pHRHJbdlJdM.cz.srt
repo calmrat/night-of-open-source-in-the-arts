@@ -1,0 +1,38 @@
+﻿1
+00:00:21,949 --> 00:00:25,682
+Ahoj! Jmenuji se Nikolai Namashev.
+
+2
+00:00:25,682 --> 00:00:30,003
+A rád bych vytvořil animovaný komiks Pepper a Carrot.
+
+3
+00:00:31,334 --> 00:00:40,145
+Původně je Pepper a Carrot webový open source komiks vytvořený Davidem Revoyem.
+
+4
+00:00:40,291 --> 00:00:45,186
+Můj záměr je vytvořit jeho animovanou verzi.
+
+5
+00:00:46,521 --> 00:00:58,065
+K tomu budu používat Blender(www.blender.org/) a Krita (www.krita.org) open source software.
+
+6
+00:01:00,349 --> 00:01:09,439
+Aby to bylo možné, začal jsem tzv. crowdfundigovou kampaň (kolektivní financování).
+
+7
+00:01:09,964 --> 00:01:19,173
+Pokud kampaň uspěje, budu moci vytvořit jednu epizodu tohoto animovaného komiksu.
+
+8
+00:01:19,173 --> 00:01:25,882
+Takže, pokud se ještě pořád koukáte, tak ... myslím, že už víte, co dělat!
+
+9
+00:01:26,444 --> 00:01:34,644
+Podpořte tuto kampaň.
+--> igg.me/at/pepper-and-carrot-motion
+Díky!
+

@@ -1,0 +1,170 @@
+﻿1
+00:00:00,000 --> 00:00:03,292
+Will Weekly - Talk + Draw
+
+2
+00:00:03,228 --> 00:00:09,700
+Jak to jde YouTube? Tady je Will. Vítejte ve Will Weekly!
+Tohle je Talk + Draw, epizoda 7.
+
+3
+00:00:09,700 --> 00:00:17,544
+Dnes budu dělat komiks, na který jsem narazil asi před pěti měsíci na náhodné stránce.
+
+4
+00:00:17,544 --> 00:00:20,598
+Autorovo jméno je David Revoy a ten komiks se jmenuje Pepper and Carrot.
+
+5
+00:00:20,598 --> 00:00:28,658
+Je to hodně dobře namalovaný i napsaný komiks. Chci říct, ty příběhy ... Myslím, že jsou teď u epizody 10, epizoda 11 by měla vyjít brzy.
+
+6
+00:00:28,658 --> 00:00:35,181
+Jsou to hodně krátké komiksy. Zhruba 8 až 10 políček. Ale vážně milý, takový rozmarný a fakt vtipný.
+
+7
+00:00:35,181 --> 00:00:41,302
+Obě ty postavy jsou hodně originální. Autor tě unese do úplně jiného světa.
+
+8
+00:00:41,302 --> 00:00:48,441
+Ten styl jeho fantazy kreseb je ... pro mě ... připomínka staré školy RPGček, které jsem hrával na Playstationu ...
+
+9
+00:00:48,441 --> 00:00:53,534
+...  jako Suikoden nebo Chrono Cross a hlavně Final Fantasy 9.
+
+10
+00:00:53,534 --> 00:00:58,593
+Vlastně, ta hlavní postava - Pepper, mi připomíná ženskou verzi Vivi.
+
+11
+00:00:58,593 --> 00:01:08,312
+Prostě čarodějka nebo mág ... ale má takovou její nepředvídatelnou osobnost a po přečtení pár těchle komiksů si ji zamilujete a tu uměleckou stránku taky.
+
+12
+00:01:08,312 --> 00:01:18,448
+Jedna z těch velkých věcí je ten autor, je na davidrevoy.com ...
+
+13
+00:01:18,448 --> 00:01:23,588
+a je vážně skromný. Poskytuje základní tutoriály o tom jak dělá svoje řemeslo ...
+
+14
+00:01:23,588 --> 00:01:30,925
+... dává rady k tomu celému průmyslu ... píše postupy krok-za-krokem o tom jak udělal všechny svoje komiksy ...
+
+15
+00:01:30,925 --> 00:01:38,897
+... a je to vážně cool čtení, protože používá open source, všechno navždy 100% zdarma.
+
+16
+00:01:38,897 --> 00:01:44,056
+Dává svoje věci na internet absolutně zadarmo. A používá open source software ...
+
+17
+00:01:44,056 --> 00:01:47,242
+... a myslím, že software, který používá nejvíce se jmenuje Krita (krita.org) ...
+
+18
+00:01:47,242 --> 00:01:55,202
+... není to tak populární jako Photoshop atd., ale trochu jsem si s Kritou hrál a celý ten koncept se mi vážně líbí.
+
+19
+00:01:55,202 --> 00:02:00,322
+Je to hodně zjednodušené rozhraní a je vážně dobré pro umělce, kteří dělají pomocí čar a rovných tvarů.
+
+20
+00:02:00,322 --> 00:02:06,408
+A jak uvidíte na tomhle videu, způsob jakým dělám linky může být docela těžkopádný v závislosti na typu kresby, který  zrovna dělám.
+
+21
+00:02:06,408 --> 00:02:11,652
+Demo, které jsem viděl, vlastně tutoriál na Kritu byl absolutně úžasný ...
+
+22
+00:02:11,552 --> 00:02:15,421
+... až tak moc, že jsem se spojil s tou společností a zeptal se kdy chystají verzi na Mac ...
+
+23
+00:02:15,421 --> 00:02:21,862
+... protože přesně ta věc, co jsem chtěl použít, má bug ve verzi pro Mac.
+
+24
+00:02:21,862 --> 00:02:31,607
+Takže na tom budou dál pracovat, protože pomalu zíkávají na popularitě a nemůžu se dočkat až to bude, protože mi to urychlí práci pravděpodobně nejméně 3 krát .
+
+25
+00:02:31,607 --> 00:02:40,705
+Ale.. jo, jak jsem říkal, jeho jméno je David Revoy. Tohle jsou jeho dvě postavy. Žádným způsobem je nevlastním.
+
+26
+00:02:40,705 --> 00:02:49,514
+Dělám to jako fanoušek. Tohle mu natweetuju a dám na jeho facebook abych se ujistil, že pochopí, že jsem to udělal, protože příjímá tvorbu od fanoušků.
+
+27
+00:02:49,514 --> 00:02:57,300
+A takhle jenom skládám poctu těm postavám a kreativitě a schopnosti vzít dvě neznámé postavy, ...
+
+28
+00:02:57,300 --> 00:03:05,578
+... a po několika přečtených epizodách, úplně vtáhnout čtenáře do jejich světa, tak aby porozuměl různým postavám v tom světě ...
+
+29
+00:03:05,578 --> 00:03:09,716
+... stejně jako poznal ty postavy na opravdu hluboké úrovni.
+
+30
+00:03:09,716 --> 00:03:15,135
+Myslím, že to je vážně působivá věc, když umělec tohle dokáže v tak krátkém čase.
+
+31
+00:03:15,135 --> 00:03:18,971
+Takže ho 100% doporučuji a jsem jeho 100% fanoušek.
+
+32
+00:03:18,971 --> 00:03:27,285
+Tohle přesně je něco, co bych chtěl dokázat já, prostě vytvořit postavu, která tě odnese do úplně jiného světa ...
+
+33
+00:03:27,285 --> 00:03:31,175
+... přenese tě a donutí tě zamilovat se do ní a chtít vidět její další dobrodružství.
+
+34
+00:03:31,175 --> 00:03:38,883
+Vidět co budou dělat dál.  A snad se můžeme všichni shodnout jako umělci a fanouškové umění ... kde můžeme mít ...
+
+35
+00:03:38,883 --> 00:03:44,254
+... protože internet je přesně ten klíč k tomhle životnímu stylu, protože tohle je teď hodně open source svět ...
+
+36
+00:03:44,254 --> 00:03:48,572
+... kde nemusíš každý týden jít do obchodu s komiksy abys sehnal nejnovější číslo. Všechno je online.
+
+37
+00:03:48,572 --> 00:03:55,590
+Takže pokud můžeme všichni přemýšlet stejně jako David Revoy, který má vše open source ...
+
+38
+00:03:55,590 --> 00:03:59,424
+... a používá "čestný systém" placení ... protože ano, umělci, potřebují dostat zaplaceno ...
+
+39
+00:03:59,424 --> 00:04:04,779
+... ale on si dokázal zachovat pěknou základnu fanoušků a oni se o něj starají ...
+
+40
+00:04:04,779 --> 00:04:10,544
+... a já myslím, že je to úžasná věc a rozhodně jsem jedním z jeho fanoušků a v dohledné budoucnosti budu.
+
+41
+00:04:10,544 --> 00:04:14,670
+Takže jsem vám to jenom chtěl ukázat. Díky za sledování videa! Doufám, že se vám líbilo.
+
+42
+00:04:14,670 --> 00:04:18,870
+Pokud ano, prosím odebírejte můj kanál. Uvidíme se později!
+--> https://www.youtube.com/channel/UCmCfcZ9eH-NooKg9mSSURjg
+
